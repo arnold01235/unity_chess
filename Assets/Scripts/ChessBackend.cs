@@ -3,6 +3,13 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
+public class chessBackend : MonoBehaviour {
+    private void Start()
+    {
+        
+    }
+ 
+}
 public static class Piece
 {
     public const int None = 0;
